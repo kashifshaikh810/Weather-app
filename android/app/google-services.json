@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "537072632140",
+    "project_id": "my-weather-app-1f035",
+    "storage_bucket": "my-weather-app-1f035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537072632140:android:d2c276f97ed623026e0fe9",
+        "android_client_info": {
+          "package_name": "com.mytodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "537072632140-f3l35fp32nsv2gaiqnlsf7ko0mnk0i6k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw0IvwoI7jDS12E4r8yH2VPj2BY7qTrBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "537072632140-f3l35fp32nsv2gaiqnlsf7ko0mnk0i6k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
